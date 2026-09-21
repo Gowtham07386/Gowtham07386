@@ -62,7 +62,7 @@ My goal is to grow as an **AI/ML Engineer and Backend Developer**, building scal
 
 ## 💼 Experience
 
-### 🔹 AI Intern / Team Lead — Infosys Springboard
+### 🔹 AI Intern — Infosys Springboard
 
 📅 **July 2026 – September 2026**
 
