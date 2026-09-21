@@ -12,7 +12,7 @@
 
 <!-- CUSTOM GRADIENT BANNER -->
 
-<img src="./assets/gowtham-banner.png" width="100%" alt="Gowtham Koppera - AI/ML Engineer"/>
+<img src="gowtham-banner.png" width="100%" alt="Gowtham Koppera - AI/ML Engineer"/>
 
 <br/>
 
