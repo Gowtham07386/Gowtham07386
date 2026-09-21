@@ -6,47 +6,47 @@
 -->
 
 
-<!-- ===================== GOWTHAM KOPPERA PROFILE HEADER ===================== -->
+<!-- ===================== GOWTHAM KOPPERA GITHUB PROFILE ===================== -->
 
 <div align="center">
 
-<!-- GRADIENT HEADER BANNER -->
+<!-- CUSTOM GRADIENT BANNER -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20,24&height=180&section=header&text=Gowtham%20Koppera&fontSize=52&fontColor=ffffff&fontAlignY=43&desc=Building%20Intelligent%20Systems%20%7C%20One%20Project%20at%20a%20Time&descSize=18&descAlignY=67" width="100%" alt="Gowtham Koppera"/>
+<img src="./assets/gowtham-banner.png" width="100%" alt="Gowtham Koppera - AI/ML Engineer"/>
 
 <br/>
 
-<!-- NAVIGATION BUTTONS - ROW 1 -->
+<!-- ===================== NAVIGATION BUTTONS ===================== -->
 
 <p>
   <a href="https://gowtham-koppera-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-000000?style=for-the-badge&labelColor=000000" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-000000?style=for-the-badge" alt="Portfolio"/>
   </a>
   <a href="https://github.com/Gowtham07386">
-    <img src="https://img.shields.io/badge/GOWTHAM%20KOPPERA-00CFFF?style=for-the-badge&labelColor=000000" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/gowthamk7117">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&labelColor=000000" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="#connect-with-me">
-    <img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&labelColor=000000" alt="Connect"/>
+    <img src="https://img.shields.io/badge/CONNECT-0084BD?style=for-the-badge" alt="Connect"/>
   </a>
   <a href="mailto:kopperagowtham@gmail.com">
-    <img src="https://img.shields.io/badge/✉%20EMAIL-D94B3D?style=for-the-badge&labelColor=000000" alt="Email"/>
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<!-- NAVIGATION BUTTONS - ROW 2 -->
+<!-- SECOND ROW -->
 
 <p>
-  <a href="mailto:kopperagowtham@gmail.com?subject=Let's%20Connect">
-    <img src="https://img.shields.io/badge/LET'S%20TALK-D94B3D?style=for-the-badge&labelColor=000000" alt="Let's Talk"/>
+  <a href="mailto:kopperagowtham@gmail.com?subject=Let's%20Talk">
+    <img src="https://img.shields.io/badge/LET'S%20TALK-D94B3D?style=for-the-badge" alt="Let's Talk"/>
   </a>
   <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://github.com/Gowtham07386?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJECTS-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Projects"/>
+    <img src="https://img.shields.io/badge/PROJECTS-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
   </a>
 </p>
 
@@ -58,7 +58,19 @@
 
 </div>
 
-<!-- ===================== END HEADER ===================== -->
+---
+
+<!-- ===================== TYPING ANIMATION ===================== -->
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+Python+Developer;Backend+Developer+%7C+FastAPI;Machine+Learning+%7C+Generative+AI;Learn+%7C+Build+%7C+Solve+%7C+Grow" alt="Typing SVG"/>
+</a>
+
+</div>
+
+---
 
 <!-- ===================== ABOUT ME ===================== -->
 
