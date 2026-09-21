@@ -22,7 +22,7 @@
   <a href="https://gowtham-koppera-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-000000?style=for-the-badge" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/gowthamk7117">
+  <a href="https://www.linkedin.com/in/gowthamk7117/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:kopperagowtham@gmail.com">
