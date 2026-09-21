@@ -25,9 +25,6 @@
   <a href="https://www.linkedin.com/in/gowthamk7117">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="#connect-with-me">
-    <img src="https://img.shields.io/badge/CONNECT-0084BD?style=for-the-badge" alt="Connect"/>
-  </a>
   <a href="mailto:kopperagowtham@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -39,7 +36,7 @@
   <a href="mailto:kopperagowtham@gmail.com?subject=Let's%20Talk">
     <img src="https://img.shields.io/badge/LET'S%20TALK-D94B3D?style=for-the-badge" alt="Let's Talk"/>
   </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
+  <a href="https://www.instagram.com/mr__gowtham_026/">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://github.com/Gowtham07386?tab=repositories">
