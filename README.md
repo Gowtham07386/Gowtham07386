@@ -84,7 +84,7 @@ My goal is to grow as an **AI/ML Engineer and Backend Developer**, building scal
 ### 👨‍💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java" alt="Programming Languages"/>
 </p>
 
 <p>
@@ -117,13 +117,13 @@ My goal is to grow as an **AI/ML Engineer and Backend Developer**, building scal
 ### 🌐 Frontend & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,python,fastapi" alt="Frontend and Backend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,fastapi" alt="Frontend and Backend Technologies"/>
 </p>
 
 ### 🗄️ Databases & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,docker,azure,git,github,linux" alt="Databases and Tools"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,git,github" alt="Databases and Tools"/>
 </p>
 
 <p>
